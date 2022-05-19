@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @richie
-- 🌱 I’m currently learning Reactjs
 
 
 <!---
